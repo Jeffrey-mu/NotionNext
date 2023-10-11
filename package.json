@@ -1,11 +1,11 @@
 {
   "name": "notion-next",
   "version": "4.0.15",
-  "homepage": "https://github.com/tangly1024/NotionNext.git",
+  "homepage": "https://github.com/Jeffrey-mu/NotionNext.git",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tangly1024/NotionNext.git"
+    "url": "https://github.com/Jeffrey-mu/NotionNext.git"
   },
   "author": {
     "name": "tangly",
